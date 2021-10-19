@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name esp-drone)(type Legacy)(uri /Users/drew/Projects/kicad/esp-drone/esp-drone.lib)(options "")(descr ""))
+)
